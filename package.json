@@ -21,7 +21,7 @@
     "@react-navigation/tabs": "0.0.0-alpha.12",
     "axios": "^0.21.1",
     "core-js": "^3.6.4",
-    "expo": "^42.0.0",
+    "expo": "^46.0.16",
     "expo-app-loading": "^1.0.0",
     "expo-asset": "~8.3.3",
     "expo-barcode-scanner": "~10.2.2",
